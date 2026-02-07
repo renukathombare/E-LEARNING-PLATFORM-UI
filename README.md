@@ -26,4 +26,9 @@ Through this project, I gained practical experience in building a structured mul
 
 In conclusion, this E-Learning Platform UI project successfully fulfills the internship requirement of creating a styled and interactive multi-page interface. It reflects my ability to combine design and functionality while implementing real-world features such as course management and progress tracking. This project has enhanced my confidence in front-end development and strengthened my practical coding skills.##
 
+OUTPUT :
+<img width="1287" height="847" alt="Image" src="https://github.com/user-attachments/assets/61c2aca5-c0bd-44c0-8411-33b009c26527" />
 
+<img width="1283" height="840" alt="Image" src="https://github.com/user-attachments/assets/10a67eb6-40c2-447f-8650-15dc7a997826" />
+
+<img width="1280" height="816" alt="Image" src="https://github.com/user-attachments/assets/0836f12e-bd21-4623-a25f-502526a07120" />
